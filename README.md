@@ -1,0 +1,1 @@
+# LSTM_Based_Stock_Pattern_Prediction_Enhanced_With_The_Attention_Mechanism
